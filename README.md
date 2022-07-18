@@ -1,6 +1,6 @@
 ### Hello World 👋
 
- <img align="right" alt="GIF" src="https://c.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" width="500" height="255" />
+ <img align="right" alt="GIF" src="https://c.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" width="500" height="260" />
 
 ---
 ### Languages and Tools:
