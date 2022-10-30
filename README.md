@@ -1,6 +1,6 @@
 ### Hello World 👋
 
- <img align="right" alt="GIF" src="https://c.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" width="500" height="260" />
+ <img align="right" alt="GIF" src="https://c.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" width="500" height="295" />
 
 ---
 ### Languages and Tools:
@@ -10,6 +10,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+</div>
+
+<div align="left"> 
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="42" alt="javascript logo"  />
+  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" height="30" width="42" alt="react logo"  />
+  <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" height="30" width="42" alt="html5 logo"  />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" height="30" width="42" alt="css3 logo"  />
 </div>
 
 ### Social Medias:
