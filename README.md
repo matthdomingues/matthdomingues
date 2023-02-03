@@ -9,7 +9,7 @@
 - ✨ Criando e caçando bugs desde 2022;
 - 📚 Atualmente aprendendo sobre Infraestrutura: Docker 🐳 e AWS, e também Inglês e Espanhol;
 - 🎯 Metas: Crescer como um desenvolvedor :computer:, viver num lugar frio/chuvoso ❄, aprender piano :musical_keyboard: e falar 4 línguas 🚀;
-- :jigsaw: Além disso... Eu jogo D&D :game_die:, ouvir podcasts :headphones: e jogar video-game :video_game: nas horas vagas;
+- :jigsaw: Além disso... Eu jogo D&D :game_die:, ouço podcasts :headphones: e jogo video-game :video_game: nas horas vagas;
 
 ## Eu programo com:
 
@@ -47,10 +47,10 @@
 
 ## About me:
 
-- ✨ Creating and hunting bugs since 2022
-- 📚 I'm currently learning english, spanish and docker 🐳
-- 🎯 Goals: grow as a developer :computer:, live in a cold/rainy place ❄, learn to play piano :musical_keyboard: and speak 4 languagues 🚀
-- :jigsaw: And also... I play D&D :game_die:, listen podcasts :headphones: and videogames :video_game: in my free time
+- ✨ Creating and hunting bugs since 2022;
+- 📚 I'm currently learning Infrastructure: Docker 🐳 and AWS; Also, I'm learning English;
+- 🎯 Goals: grow as a developer :computer:, live in a cold/rainy place ❄, learn to play piano :musical_keyboard: and speak 4 languagues 🚀;
+- :jigsaw: And also... I play D&D :game_die:, listen podcasts :headphones: and videogames :video_game: in my free time;
 
 ## I code with:
 
