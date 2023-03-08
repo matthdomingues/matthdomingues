@@ -7,7 +7,7 @@
 ## Sobre mim:
 
 - ✨ Criando e caçando bugs desde 2022;
-- 📚 Atualmente aprendendo sobre Infraestrutura: Docker 🐳 e AWS, e também Inglês e Espanhol;
+- 📚 Atualmente aprendendo sobre Docker 🐳, AWS e POO, e também Inglês e Espanhol;
 - 🎯 Metas: Crescer como um desenvolvedor :computer:, viver num lugar frio/chuvoso ❄, aprender piano :musical_keyboard: e falar 4 línguas 🚀;
 - :jigsaw: Além disso... Eu jogo D&D :game_die:, ouço podcasts :headphones: e jogo video-game :video_game: nas horas vagas;
 
