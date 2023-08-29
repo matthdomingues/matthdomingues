@@ -7,7 +7,7 @@
 ## Sobre mim:
 
 - ✨ Criando e caçando bugs desde 2022;
-- 📚 Atualmente aprendendo sobre Java e Angular, e também Inglês e Espanhol;
+- 📚 Atualmente aprendendo Java e Angular, e também Inglês e Espanhol;
 - 🎯 Metas: Crescer como um desenvolvedor :computer:, viver num lugar frio/chuvoso ❄, aprender piano :musical_keyboard: e falar 4 línguas 🚀;
 - :jigsaw: Além disso... Eu jogo D&D :game_die:, ouço podcasts :headphones: e jogo video-game :video_game: nas horas vagas;
 
@@ -48,7 +48,7 @@
 ## About me:
 
 - ✨ Creating and hunting bugs since 2022;
-- 📚 I'm currently learning Infrastructure: Docker 🐳 and AWS; Also, I'm learning English;
+- 📚 I'm currently learning Java and Angular; Also, I'm learning English;
 - 🎯 Goals: grow as a developer :computer:, live in a cold/rainy place ❄, learn to play piano :musical_keyboard: and speak 4 languagues 🚀;
 - :jigsaw: And also... I play D&D :game_die:, listen podcasts :headphones: and videogames :video_game: in my free time;
 
@@ -63,7 +63,7 @@
 <h3 align="left">Back-End</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,redis,docker,aws,java,angular" />      
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,angular,mongodb,postgres,redis,docker,aws,java,angular" />      
 </div>
 
 ## Social Medias:
