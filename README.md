@@ -63,7 +63,7 @@
 <h3 align="left">Back-End</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,redis,docker,aws" />      
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,postgres,redis,docker,aws,java,angular" />      
 </div>
 
 ## Social Medias:
