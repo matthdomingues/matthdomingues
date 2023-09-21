@@ -16,13 +16,13 @@
 <h3 align="left">Front-End</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />      
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,angular" />      
 </div>
 
 <h3 align="left">Back-End</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,angular,mongodb,postgres,redis,docker,aws" />      
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,java,mongodb,postgres,redis,docker,aws" />      
 </div>
 
 ## Redes Sociais:
