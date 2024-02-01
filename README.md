@@ -7,9 +7,9 @@
 ## Sobre mim:
 
 - ✨ Criando e caçando bugs desde 2022;
-- 📚 Atualmente aprendendo Java e Angular, e também Inglês e Espanhol;
+- 📚 Atualmente cursando Tecnologia em Sistemas de Computação, e também Inglês e Espanhol;
 - 🎯 Metas: Crescer como um desenvolvedor :computer:, viver num lugar frio/chuvoso ❄, aprender piano :musical_keyboard: e falar 4 línguas 🚀;
-- :jigsaw: Além disso... Eu jogo D&D :game_die:, ouço podcasts :headphones: e jogo video-game :video_game: nas horas vagas;
+- :jigsaw: Além disso... Eu monto quebra-cabeças 🧩, vou à praia 🏖️ e jogo video-game :video_game: nas horas vagas;
 
 ## Eu programo com:
 
