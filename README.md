@@ -1,4 +1,4 @@
-<h1 align="left">Olá, recém-chegado(a)! 👋:robot:</h1>
+<h1 align="left">Olá, recém-chegado(a)! 👋</h1>
 
 <p align="left">Me chamo Matheus (ou Matt) e eu sou um Desenvolvedor Full-Stack! Moro no Rio de Janeiro, Brasil;</p>
 
